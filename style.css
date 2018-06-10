@@ -1,25 +1,19 @@
-.table {
-	display: table;
+.container {
     border-style: solid;
     border-color: unset;
     border-width: 6px;
-    border-radius: 30px;
+    border-radius: 10px;
     width: 550px;
     height: 550px;
+    margin: auto;
+    padding: 0px;
 }
-.container {
-	display: table-cell;
-	margin: 0px;
-	padding: auto;
-	border: 0px;
+
+.pixel {
+	display: inline-block;
+	float: right;
 }
-.sketch {
-	display: block;
-	margin: 0px;
-	padding: auto;
-	border: 0px;
-	background-color: gray;
-}
+
 button {
 	width : 300px;
 	height: 100px;
