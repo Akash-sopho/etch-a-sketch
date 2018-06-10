@@ -23,3 +23,9 @@ function createDiv() {
 		container.appendChild(newDiv);
 	}
 }
+
+function eventListener() {
+	var pixels = document.querySelectorAll('pixel');
+	forEach(pixels) {
+	}
+}

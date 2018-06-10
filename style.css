@@ -12,6 +12,7 @@
 .pixel {
 	display: inline-block;
 	float: right;
+	background-color: gray;
 }
 
 button {
