@@ -1,0 +1,26 @@
+.table {
+	display: table;
+    border-style: solid;
+    border-color: unset;
+    border-width: 6px;
+    border-radius: 30px;
+    width: 550px;
+    height: 550px;
+}
+.container {
+	display: table-cell;
+	margin: 0px;
+	padding: auto;
+	border: 0px;
+}
+.sketch {
+	display: block;
+	margin: 0px;
+	padding: auto;
+	border: 0px;
+	background-color: gray;
+}
+button {
+	width : 300px;
+	height: 100px;
+}
