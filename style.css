@@ -12,10 +12,22 @@
 .pixel {
 	display: inline-block;
 	float: right;
-	background-color: gray;
+	opacity: 0;
 }
 
 button {
 	width : 300px;
 	height: 100px;
+	margin: auto;
+	display: block;
+	font-size: 30px;
+	font-family: Georgia;
+}
+
+.output {
+	display: block;
+	font-size: 30px;
+	font-family: Georgia;
+	text-align: center;
+	margin-top: 5px;
 }
